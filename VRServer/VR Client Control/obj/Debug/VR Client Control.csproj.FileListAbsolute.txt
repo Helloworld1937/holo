@@ -1,0 +1,11 @@
+E:\与程序有关的文档\VR\VRServer\VR Client Control\bin\Debug\VR Client Control.exe.config
+E:\与程序有关的文档\VR\VRServer\VR Client Control\bin\Debug\VR Client Control.exe
+E:\与程序有关的文档\VR\VRServer\VR Client Control\bin\Debug\VR Client Control.pdb
+E:\与程序有关的文档\VR\VRServer\VR Client Control\obj\Debug\VR Client Control.exe
+E:\与程序有关的文档\VR\VRServer\VR Client Control\obj\Debug\VR Client Control.pdb
+D:\1、程序\与程序有关的文档\VR\VRServer\VR Client Control\bin\Debug\VR Client Control.exe.config
+D:\1、程序\与程序有关的文档\VR\VRServer\VR Client Control\obj\Debug\VR Client Control.exe
+D:\1、程序\与程序有关的文档\VR\VRServer\VR Client Control\obj\Debug\VR Client Control.pdb
+D:\1、程序\与程序有关的文档\VR\VRServer\VR Client Control\bin\Debug\VR Client Control.exe
+D:\1、程序\与程序有关的文档\VR\VRServer\VR Client Control\bin\Debug\VR Client Control.pdb
+D:\1、程序\与程序有关的文档\VR\VRServer\VR Client Control\obj\Debug\VR Client Control.csprojResolveAssemblyReference.cache

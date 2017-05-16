@@ -1,0 +1,12 @@
+E:\kinect\界面\ControlsBasics-WPF\.Debug\KinectInteraction180_32.dll
+E:\kinect\界面\ControlsBasics-WPF\.Debug\KinectInteraction180_64.dll
+E:\kinect\界面\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\kinect\界面\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\kinect\界面\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+E:\kinect\界面\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\kinect\界面\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+E:\kinect\界面\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+E:\kinect\界面\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+E:\kinect\界面\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+E:\kinect\界面\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\kinect\界面\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb

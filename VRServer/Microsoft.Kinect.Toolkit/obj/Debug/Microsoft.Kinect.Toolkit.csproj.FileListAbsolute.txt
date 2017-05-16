@@ -1,0 +1,13 @@
+E:\kinect\界面\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\kinect\界面\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+E:\kinect\界面\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+E:\kinect\界面\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+E:\kinect\界面\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+E:\kinect\界面\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+E:\kinect\界面\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+E:\kinect\界面\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+E:\kinect\界面\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+E:\kinect\界面\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+E:\kinect\界面\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+E:\kinect\界面\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+E:\kinect\界面\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache

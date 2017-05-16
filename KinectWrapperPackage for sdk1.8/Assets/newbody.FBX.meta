@@ -1,0 +1,789 @@
+fileFormatVersion: 2
+guid: bcc308e3044b31c419fbe9b22ca517d5
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Footsteps
+    100004: Bip01 Head
+    100006: Bip01 HeadNub
+    100008: Bip01 L Calf
+    100010: Bip01 L Clavicle
+    100012: Bip01 L Finger0
+    100014: Bip01 L Finger01
+    100016: Bip01 L Finger02
+    100018: Bip01 L Finger0Nub
+    100020: Bip01 L Finger1
+    100022: Bip01 L Finger11
+    100024: Bip01 L Finger12
+    100026: Bip01 L Finger1Nub
+    100028: Bip01 L Finger2
+    100030: Bip01 L Finger21
+    100032: Bip01 L Finger22
+    100034: Bip01 L Finger2Nub
+    100036: Bip01 L Finger3
+    100038: Bip01 L Finger31
+    100040: Bip01 L Finger32
+    100042: Bip01 L Finger3Nub
+    100044: Bip01 L Finger4
+    100046: Bip01 L Finger41
+    100048: Bip01 L Finger42
+    100050: Bip01 L Finger4Nub
+    100052: Bip01 L Foot
+    100054: Bip01 L Forearm
+    100056: Bip01 L Hand
+    100058: Bip01 L Thigh
+    100060: Bip01 L Toe0
+    100062: Bip01 L Toe01
+    100064: Bip01 L Toe02
+    100066: Bip01 L Toe0Nub
+    100068: Bip01 L UpperArm
+    100070: Bip01 Neck
+    100072: Bip01 Pelvis
+    100074: Bip01 R Calf
+    100076: Bip01 R Clavicle
+    100078: Bip01 R Finger0
+    100080: Bip01 R Finger01
+    100082: Bip01 R Finger02
+    100084: Bip01 R Finger0Nub
+    100086: Bip01 R Finger1
+    100088: Bip01 R Finger11
+    100090: Bip01 R Finger12
+    100092: Bip01 R Finger1Nub
+    100094: Bip01 R Finger2
+    100096: Bip01 R Finger21
+    100098: Bip01 R Finger22
+    100100: Bip01 R Finger2Nub
+    100102: Bip01 R Finger3
+    100104: Bip01 R Finger31
+    100106: Bip01 R Finger32
+    100108: Bip01 R Finger3Nub
+    100110: Bip01 R Finger4
+    100112: Bip01 R Finger41
+    100114: Bip01 R Finger42
+    100116: Bip01 R Finger4Nub
+    100118: Bip01 R Foot
+    100120: Bip01 R Forearm
+    100122: Bip01 R Hand
+    100124: Bip01 R Thigh
+    100126: Bip01 R Toe0
+    100128: Bip01 R Toe01
+    100130: Bip01 R Toe02
+    100132: Bip01 R Toe0Nub
+    100134: Bip01 R UpperArm
+    100136: Bip01 Spine
+    100138: Bip01 Spine1
+    100140: Bip01 Spine2
+    100142: Bip01 Spine3
+    100144: Bone02
+    100146: Bone03
+    100148: Bone04
+    100150: Bone05
+    100152: Bone06
+    100154: Bone07
+    100156: Bone08
+    100158: Bone09
+    100160: Bone10
+    100162: Bone11
+    100164: Bone12
+    100166: Bone15
+    100168: Bone17
+    100170: Bone18
+    100172: Bone19
+    100174: Bone21
+    100176: CalfLRemoval1
+    100178: CalfRemovalL1
+    100180: CalfRemovalR1
+    100182: CalfRRemoval1
+    100184: EYES
+    100186: FootLremoval1
+    100188: FootRemovCtr1
+    100190: FootRremoval1
+    100192: HD_Ironman:Object01
+    100194: HD_Ironman:Object02
+    100196: HD_Ironman:Object03
+    100198: HD_Ironman:Object04
+    100200: HD_Ironman:Object05
+    100202: HD_Ironman:Object06
+    100204: HD_Ironman:Object07
+    100206: HD_Ironman:Object08
+    100208: HD_Ironman:Object09
+    100210: HD_Ironman:Object10
+    100212: HD_Ironman:Object11
+    100214: HD_Ironman:Object12
+    100216: HD_Ironman:polySurface2610_polySurface2642
+    100218: HD_Ironman:polySurface2610_polySurface2651
+    100220: HD_Ironman:polySurface2610_polySurface2652
+    100222: HD_Ironman:polySurface2610_polySurface2653
+    100224: HD_Ironman:polySurface2610_polySurface2654
+    100226: HD_Ironman:polySurface2610_polySurface2655
+    100228: HD_Ironman:polySurface2610_polySurface2725
+    100230: HD_Ironman:polySurface2610_polySurface2747
+    100232: HD_Ironman:polySurface2610_polySurface2765
+    100234: HD_Ironman:polySurface2610_polySurface2851
+    100236: HD_Ironman:polySurface2610_polySurface3060
+    100238: HD_Ironman:polySurface2610_polySurface3079
+    100240: HD_Ironman:polySurface2610_polySurface3090
+    100242: HD_Ironman:polySurface2610_polySurface3094
+    100244: HD_Ironman:polySurface2610_polySurface3108
+    100246: HD_Ironman:polySurface2610_polySurface3109
+    100248: HD_Ironman:polySurface2610_polySurface3118
+    100250: HD_Ironman:polySurface2610_polySurface3148
+    100252: HD_Ironman:polySurface2610_polySurface3154
+    100254: HD_Ironman:polySurface2610_polySurface3423
+    100256: HD_Ironman:polySurface2610_polySurface3540
+    100258: HD_Ironman:polySurface2610_polySurface3559
+    100260: HD_Ironman:polySurface2610_polySurface3570
+    100262: HD_Ironman:polySurface2610_polySurface3571
+    100264: HD_Ironman:polySurface2610_polySurface3572
+    100266: HD_Ironman:polySurface2610_polySurface3573
+    100268: HD_Ironman:polySurface2610_polySurface3578
+    100270: HD_Ironman:polySurface2610_polySurface3579
+    100272: HD_Ironman:polySurface2610_polySurface3581
+    100274: HD_Ironman:polySurface2610_polySurface3582
+    100276: HD_Ironman:polySurface2610_polySurface3583
+    100278: HD_Ironman:polySurface2610_polySurface3584
+    100280: HD_Ironman:polySurface2610_polySurface3585
+    100282: HD_Ironman:polySurface2610_polySurface3586
+    100284: HD_Ironman:polySurface2610_polySurface3587
+    100286: HD_Ironman:polySurface2610_polySurface3588
+    100288: HD_Ironman:polySurface2631_polySurface2610
+    100290: HD_Ironman:polySurface2631_polySurface2611
+    100292: HD_Ironman:polySurface3666
+    100294: HD_Ironman:polySurface3667
+    100296: HD_Ironman:polySurface3848
+    100298: HD_Ironman:polySurface3849
+    100300: HD_Ironman:polySurface3850
+    100302: HD_Ironman:polySurface3851
+    100304: HD_Ironman:polySurface3852
+    100306: HD_Ironman:polySurface3853
+    100308: HD_Ironman:polySurface3854
+    100310: HD_Ironman:polySurface3855
+    100312: HD_Ironman:polySurface3860
+    100314: HD_Ironman:polySurface3861
+    100316: HD_Ironman:polySurface3862
+    100318: HD_Ironman:polySurface3863
+    100320: HD_Ironman:polySurface3864
+    100322: HD_Ironman:polySurface3865
+    100324: HD_Ironman:polySurface3867
+    100326: HD_Ironman:polySurface3868
+    100328: HD_Ironman:polySurface3869
+    100330: HD_Ironman:polySurface3871
+    100332: HD_Ironman:polySurface3872
+    100334: HD_Ironman:polySurface3873
+    100336: HD_Ironman:polySurface3874
+    100338: HD_Ironman:polySurface3875
+    100340: HD_Ironman:polySurface3876
+    100342: HD_Ironman:polySurface3877
+    100344: HD_Ironman:polySurface3878
+    100346: HD_Ironman:polySurface3880
+    100348: HD_Ironman:polySurface3882
+    100350: HD_Ironman:polySurface3883_group1
+    100352: HD_Ironman:polySurface3884
+    100354: HD_Ironman:polySurface3885
+    100356: HD_Ironman:polySurface3890
+    100358: HD_Ironman:polySurface3891
+    100360: HD_Ironman:polySurface3892
+    100362: HD_Ironman:polySurface3893
+    100364: HD_Ironman:polySurface3896_polySurface3916
+    100366: HD_Ironman:polySurface3908_polySurface3896
+    100368: HD_Ironman:polySurface3944
+    100370: HD_Ironman:polySurface3946
+    100372: HD_Ironman:polySurface3948
+    100374: HD_Ironman:polySurface3949
+    100376: HD_Ironman:polySurface3950
+    100378: HD_Ironman:polySurface3951
+    100380: HD_Ironman:polySurface3952
+    100382: HD_Ironman:polySurface3954
+    100384: HD_Ironman:polySurface3955
+    100386: HD_Ironman:polySurface3956
+    100388: HD_Ironman:polySurface3957
+    100390: HD_Ironman:polySurface3958
+    100392: HD_Ironman:polySurface3959
+    100394: HD_Ironman:polySurface3960
+    100396: HD_Ironman:polySurface3961
+    100398: HD_Ironman:polySurface3962
+    100400: HD_Ironman:polySurface3963
+    100402: HD_Ironman:polySurface3964
+    100404: HD_Ironman:polySurface3965
+    100406: HD_Ironman:polySurface3966
+    100408: HD_Ironman:polySurface3967
+    100410: LeftHandBEAM
+    100412: LRemoval0
+    100414: Lremoval1
+    100416: Lremoval2
+    100418: Lremoval3
+    100420: LSeqCtlr1
+    100422: LseqL1
+    100424: LseqL11
+    100426: LseqR1
+    100428: LseqR11
+    100430: //RootNode
+    100432: Object01
+    100434: Object02
+    100436: REACTOR
+    100438: righthandBEAM
+    100440: RRemoval0
+    100442: Rremoval1
+    100444: Rremoval2
+    100446: RRemoval3
+    100448: RSeqCtlr1
+    100450: RseqL1
+    100452: RseqL11
+    100454: RseqR1
+    100456: RseqR11
+    100458: Sphere01
+    100460: SpineRemoval02
+    100462: SpineRemoval03
+    100464: SpineRemoval04
+    100466: SpineRemoval1
+    400000: Bip01
+    400002: Bip01 Footsteps
+    400004: Bip01 Head
+    400006: Bip01 HeadNub
+    400008: Bip01 L Calf
+    400010: Bip01 L Clavicle
+    400012: Bip01 L Finger0
+    400014: Bip01 L Finger01
+    400016: Bip01 L Finger02
+    400018: Bip01 L Finger0Nub
+    400020: Bip01 L Finger1
+    400022: Bip01 L Finger11
+    400024: Bip01 L Finger12
+    400026: Bip01 L Finger1Nub
+    400028: Bip01 L Finger2
+    400030: Bip01 L Finger21
+    400032: Bip01 L Finger22
+    400034: Bip01 L Finger2Nub
+    400036: Bip01 L Finger3
+    400038: Bip01 L Finger31
+    400040: Bip01 L Finger32
+    400042: Bip01 L Finger3Nub
+    400044: Bip01 L Finger4
+    400046: Bip01 L Finger41
+    400048: Bip01 L Finger42
+    400050: Bip01 L Finger4Nub
+    400052: Bip01 L Foot
+    400054: Bip01 L Forearm
+    400056: Bip01 L Hand
+    400058: Bip01 L Thigh
+    400060: Bip01 L Toe0
+    400062: Bip01 L Toe01
+    400064: Bip01 L Toe02
+    400066: Bip01 L Toe0Nub
+    400068: Bip01 L UpperArm
+    400070: Bip01 Neck
+    400072: Bip01 Pelvis
+    400074: Bip01 R Calf
+    400076: Bip01 R Clavicle
+    400078: Bip01 R Finger0
+    400080: Bip01 R Finger01
+    400082: Bip01 R Finger02
+    400084: Bip01 R Finger0Nub
+    400086: Bip01 R Finger1
+    400088: Bip01 R Finger11
+    400090: Bip01 R Finger12
+    400092: Bip01 R Finger1Nub
+    400094: Bip01 R Finger2
+    400096: Bip01 R Finger21
+    400098: Bip01 R Finger22
+    400100: Bip01 R Finger2Nub
+    400102: Bip01 R Finger3
+    400104: Bip01 R Finger31
+    400106: Bip01 R Finger32
+    400108: Bip01 R Finger3Nub
+    400110: Bip01 R Finger4
+    400112: Bip01 R Finger41
+    400114: Bip01 R Finger42
+    400116: Bip01 R Finger4Nub
+    400118: Bip01 R Foot
+    400120: Bip01 R Forearm
+    400122: Bip01 R Hand
+    400124: Bip01 R Thigh
+    400126: Bip01 R Toe0
+    400128: Bip01 R Toe01
+    400130: Bip01 R Toe02
+    400132: Bip01 R Toe0Nub
+    400134: Bip01 R UpperArm
+    400136: Bip01 Spine
+    400138: Bip01 Spine1
+    400140: Bip01 Spine2
+    400142: Bip01 Spine3
+    400144: Bone02
+    400146: Bone03
+    400148: Bone04
+    400150: Bone05
+    400152: Bone06
+    400154: Bone07
+    400156: Bone08
+    400158: Bone09
+    400160: Bone10
+    400162: Bone11
+    400164: Bone12
+    400166: Bone15
+    400168: Bone17
+    400170: Bone18
+    400172: Bone19
+    400174: Bone21
+    400176: CalfLRemoval1
+    400178: CalfRemovalL1
+    400180: CalfRemovalR1
+    400182: CalfRRemoval1
+    400184: EYES
+    400186: FootLremoval1
+    400188: FootRemovCtr1
+    400190: FootRremoval1
+    400192: HD_Ironman:Object01
+    400194: HD_Ironman:Object02
+    400196: HD_Ironman:Object03
+    400198: HD_Ironman:Object04
+    400200: HD_Ironman:Object05
+    400202: HD_Ironman:Object06
+    400204: HD_Ironman:Object07
+    400206: HD_Ironman:Object08
+    400208: HD_Ironman:Object09
+    400210: HD_Ironman:Object10
+    400212: HD_Ironman:Object11
+    400214: HD_Ironman:Object12
+    400216: HD_Ironman:polySurface2610_polySurface2642
+    400218: HD_Ironman:polySurface2610_polySurface2651
+    400220: HD_Ironman:polySurface2610_polySurface2652
+    400222: HD_Ironman:polySurface2610_polySurface2653
+    400224: HD_Ironman:polySurface2610_polySurface2654
+    400226: HD_Ironman:polySurface2610_polySurface2655
+    400228: HD_Ironman:polySurface2610_polySurface2725
+    400230: HD_Ironman:polySurface2610_polySurface2747
+    400232: HD_Ironman:polySurface2610_polySurface2765
+    400234: HD_Ironman:polySurface2610_polySurface2851
+    400236: HD_Ironman:polySurface2610_polySurface3060
+    400238: HD_Ironman:polySurface2610_polySurface3079
+    400240: HD_Ironman:polySurface2610_polySurface3090
+    400242: HD_Ironman:polySurface2610_polySurface3094
+    400244: HD_Ironman:polySurface2610_polySurface3108
+    400246: HD_Ironman:polySurface2610_polySurface3109
+    400248: HD_Ironman:polySurface2610_polySurface3118
+    400250: HD_Ironman:polySurface2610_polySurface3148
+    400252: HD_Ironman:polySurface2610_polySurface3154
+    400254: HD_Ironman:polySurface2610_polySurface3423
+    400256: HD_Ironman:polySurface2610_polySurface3540
+    400258: HD_Ironman:polySurface2610_polySurface3559
+    400260: HD_Ironman:polySurface2610_polySurface3570
+    400262: HD_Ironman:polySurface2610_polySurface3571
+    400264: HD_Ironman:polySurface2610_polySurface3572
+    400266: HD_Ironman:polySurface2610_polySurface3573
+    400268: HD_Ironman:polySurface2610_polySurface3578
+    400270: HD_Ironman:polySurface2610_polySurface3579
+    400272: HD_Ironman:polySurface2610_polySurface3581
+    400274: HD_Ironman:polySurface2610_polySurface3582
+    400276: HD_Ironman:polySurface2610_polySurface3583
+    400278: HD_Ironman:polySurface2610_polySurface3584
+    400280: HD_Ironman:polySurface2610_polySurface3585
+    400282: HD_Ironman:polySurface2610_polySurface3586
+    400284: HD_Ironman:polySurface2610_polySurface3587
+    400286: HD_Ironman:polySurface2610_polySurface3588
+    400288: HD_Ironman:polySurface2631_polySurface2610
+    400290: HD_Ironman:polySurface2631_polySurface2611
+    400292: HD_Ironman:polySurface3666
+    400294: HD_Ironman:polySurface3667
+    400296: HD_Ironman:polySurface3848
+    400298: HD_Ironman:polySurface3849
+    400300: HD_Ironman:polySurface3850
+    400302: HD_Ironman:polySurface3851
+    400304: HD_Ironman:polySurface3852
+    400306: HD_Ironman:polySurface3853
+    400308: HD_Ironman:polySurface3854
+    400310: HD_Ironman:polySurface3855
+    400312: HD_Ironman:polySurface3860
+    400314: HD_Ironman:polySurface3861
+    400316: HD_Ironman:polySurface3862
+    400318: HD_Ironman:polySurface3863
+    400320: HD_Ironman:polySurface3864
+    400322: HD_Ironman:polySurface3865
+    400324: HD_Ironman:polySurface3867
+    400326: HD_Ironman:polySurface3868
+    400328: HD_Ironman:polySurface3869
+    400330: HD_Ironman:polySurface3871
+    400332: HD_Ironman:polySurface3872
+    400334: HD_Ironman:polySurface3873
+    400336: HD_Ironman:polySurface3874
+    400338: HD_Ironman:polySurface3875
+    400340: HD_Ironman:polySurface3876
+    400342: HD_Ironman:polySurface3877
+    400344: HD_Ironman:polySurface3878
+    400346: HD_Ironman:polySurface3880
+    400348: HD_Ironman:polySurface3882
+    400350: HD_Ironman:polySurface3883_group1
+    400352: HD_Ironman:polySurface3884
+    400354: HD_Ironman:polySurface3885
+    400356: HD_Ironman:polySurface3890
+    400358: HD_Ironman:polySurface3891
+    400360: HD_Ironman:polySurface3892
+    400362: HD_Ironman:polySurface3893
+    400364: HD_Ironman:polySurface3896_polySurface3916
+    400366: HD_Ironman:polySurface3908_polySurface3896
+    400368: HD_Ironman:polySurface3944
+    400370: HD_Ironman:polySurface3946
+    400372: HD_Ironman:polySurface3948
+    400374: HD_Ironman:polySurface3949
+    400376: HD_Ironman:polySurface3950
+    400378: HD_Ironman:polySurface3951
+    400380: HD_Ironman:polySurface3952
+    400382: HD_Ironman:polySurface3954
+    400384: HD_Ironman:polySurface3955
+    400386: HD_Ironman:polySurface3956
+    400388: HD_Ironman:polySurface3957
+    400390: HD_Ironman:polySurface3958
+    400392: HD_Ironman:polySurface3959
+    400394: HD_Ironman:polySurface3960
+    400396: HD_Ironman:polySurface3961
+    400398: HD_Ironman:polySurface3962
+    400400: HD_Ironman:polySurface3963
+    400402: HD_Ironman:polySurface3964
+    400404: HD_Ironman:polySurface3965
+    400406: HD_Ironman:polySurface3966
+    400408: HD_Ironman:polySurface3967
+    400410: LeftHandBEAM
+    400412: LRemoval0
+    400414: Lremoval1
+    400416: Lremoval2
+    400418: Lremoval3
+    400420: LSeqCtlr1
+    400422: LseqL1
+    400424: LseqL11
+    400426: LseqR1
+    400428: LseqR11
+    400430: //RootNode
+    400432: Object01
+    400434: Object02
+    400436: REACTOR
+    400438: righthandBEAM
+    400440: RRemoval0
+    400442: Rremoval1
+    400444: Rremoval2
+    400446: RRemoval3
+    400448: RSeqCtlr1
+    400450: RseqL1
+    400452: RseqL11
+    400454: RseqR1
+    400456: RseqR11
+    400458: Sphere01
+    400460: SpineRemoval02
+    400462: SpineRemoval03
+    400464: SpineRemoval04
+    400466: SpineRemoval1
+    2300000: CalfLRemoval1
+    2300002: CalfRRemoval1
+    2300004: FootRemovCtr1
+    2300006: HD_Ironman:polySurface3864
+    2300008: LSeqCtlr1
+    2300010: RSeqCtlr1
+    2300012: SpineRemoval02
+    2300014: SpineRemoval03
+    2300016: SpineRemoval04
+    2300018: SpineRemoval1
+    3300000: CalfLRemoval1
+    3300002: CalfRRemoval1
+    3300004: FootRemovCtr1
+    3300006: HD_Ironman:polySurface3864
+    3300008: LSeqCtlr1
+    3300010: RSeqCtlr1
+    3300012: SpineRemoval02
+    3300014: SpineRemoval03
+    3300016: SpineRemoval04
+    3300018: SpineRemoval1
+    4300000: LeftHandBEAM
+    4300002: righthandBEAM
+    4300004: HD_Ironman:Object12
+    4300006: HD_Ironman:Object11
+    4300008: HD_Ironman:Object10
+    4300010: HD_Ironman:Object09
+    4300012: HD_Ironman:Object08
+    4300014: HD_Ironman:polySurface3966
+    4300016: HD_Ironman:Object07
+    4300018: HD_Ironman:Object06
+    4300020: HD_Ironman:Object05
+    4300022: HD_Ironman:Object04
+    4300024: HD_Ironman:Object03
+    4300026: HD_Ironman:Object02
+    4300028: HD_Ironman:Object01
+    4300030: HD_Ironman:polySurface3864
+    4300032: HD_Ironman:polySurface3848
+    4300034: HD_Ironman:polySurface3666
+    4300036: HD_Ironman:polySurface2610_polySurface3060
+    4300038: HD_Ironman:polySurface3950
+    4300040: HD_Ironman:polySurface3875
+    4300042: HD_Ironman:polySurface3874
+    4300044: HD_Ironman:polySurface3891
+    4300046: HD_Ironman:polySurface2610_polySurface3094
+    4300048: HD_Ironman:polySurface2610_polySurface3090
+    4300050: HD_Ironman:polySurface3892
+    4300052: HD_Ironman:polySurface3893
+    4300054: HD_Ironman:polySurface2610_polySurface3079
+    4300056: HD_Ironman:polySurface3876
+    4300058: HD_Ironman:polySurface3877
+    4300060: HD_Ironman:polySurface3878
+    4300062: HD_Ironman:polySurface3880
+    4300064: HD_Ironman:polySurface3882
+    4300066: HD_Ironman:polySurface2610_polySurface3570
+    4300068: HD_Ironman:polySurface3883_group1
+    4300070: HD_Ironman:polySurface2610_polySurface3559
+    4300072: HD_Ironman:polySurface3884
+    4300074: HD_Ironman:polySurface3667
+    4300076: HD_Ironman:polySurface2610_polySurface3540
+    4300078: HD_Ironman:polySurface3890
+    4300080: HD_Ironman:polySurface3885
+    4300082: HD_Ironman:polySurface2610_polySurface2765
+    4300084: HD_Ironman:polySurface3873
+    4300086: HD_Ironman:polySurface3949
+    4300088: HD_Ironman:polySurface3944
+    4300090: HD_Ironman:polySurface3867
+    4300092: HD_Ironman:polySurface3868
+    4300094: HD_Ironman:polySurface3871
+    4300096: EYES
+    4300098: HD_Ironman:polySurface3869
+    4300100: HD_Ironman:polySurface2610_polySurface3423
+    4300102: HD_Ironman:polySurface3896_polySurface3916
+    4300104: HD_Ironman:polySurface2610_polySurface3581
+    4300106: HD_Ironman:polySurface2610_polySurface3582
+    4300108: HD_Ironman:polySurface2610_polySurface3583
+    4300110: HD_Ironman:polySurface3963
+    4300112: HD_Ironman:polySurface2610_polySurface3584
+    4300114: HD_Ironman:polySurface3964
+    4300116: HD_Ironman:polySurface3955
+    4300118: HD_Ironman:polySurface2610_polySurface3571
+    4300120: HD_Ironman:polySurface2610_polySurface2851
+    4300122: HD_Ironman:polySurface3908_polySurface3896
+    4300124: HD_Ironman:polySurface2610_polySurface3109
+    4300126: HD_Ironman:polySurface2610_polySurface3154
+    4300128: HD_Ironman:polySurface3853
+    4300130: HD_Ironman:polySurface2610_polySurface3108
+    4300132: HD_Ironman:polySurface2610_polySurface3148
+    4300134: HD_Ironman:polySurface3852
+    4300136: HD_Ironman:polySurface3849
+    4300138: HD_Ironman:polySurface2610_polySurface3118
+    4300140: HD_Ironman:polySurface2631_polySurface2611
+    4300142: HD_Ironman:polySurface3956
+    4300144: HD_Ironman:polySurface3954
+    4300146: HD_Ironman:polySurface2610_polySurface3587
+    4300148: HD_Ironman:polySurface2610_polySurface3588
+    4300150: HD_Ironman:polySurface2610_polySurface3586
+    4300152: HD_Ironman:polySurface2610_polySurface3585
+    4300154: HD_Ironman:polySurface2610_polySurface3573
+    4300156: HD_Ironman:polySurface2610_polySurface3578
+    4300158: HD_Ironman:polySurface3957
+    4300160: HD_Ironman:polySurface3959
+    4300162: HD_Ironman:polySurface3958
+    4300164: HD_Ironman:polySurface3960
+    4300166: HD_Ironman:polySurface2610_polySurface3579
+    4300168: HD_Ironman:polySurface3962
+    4300170: HD_Ironman:polySurface3961
+    4300172: HD_Ironman:polySurface2631_polySurface2610
+    4300174: HD_Ironman:polySurface3854
+    4300176: HD_Ironman:polySurface3855
+    4300178: HD_Ironman:polySurface2610_polySurface2653
+    4300180: HD_Ironman:polySurface2610_polySurface2652
+    4300182: HD_Ironman:polySurface2610_polySurface2655
+    4300184: HD_Ironman:polySurface2610_polySurface2654
+    4300186: HD_Ironman:polySurface2610_polySurface2651
+    4300188: HD_Ironman:polySurface2610_polySurface2725
+    4300190: HD_Ironman:polySurface3860
+    4300192: HD_Ironman:polySurface3952
+    4300194: HD_Ironman:polySurface3951
+    4300196: HD_Ironman:polySurface2610_polySurface2747
+    4300198: HD_Ironman:polySurface3862
+    4300200: HD_Ironman:polySurface3861
+    4300202: HD_Ironman:polySurface3863
+    4300204: HD_Ironman:polySurface3948
+    4300206: HD_Ironman:polySurface3946
+    4300208: HD_Ironman:polySurface3851
+    4300210: HD_Ironman:polySurface3965
+    4300212: HD_Ironman:polySurface2610_polySurface2642
+    4300214: HD_Ironman:polySurface2610_polySurface3572
+    4300216: HD_Ironman:polySurface3872
+    4300218: HD_Ironman:polySurface3865
+    4300220: HD_Ironman:polySurface3850
+    4300222: HD_Ironman:polySurface3967
+    4300224: REACTOR
+    4300226: Object01
+    4300228: Object02
+    4300230: SpineRemoval1
+    4300232: SpineRemoval02
+    4300234: SpineRemoval03
+    4300236: SpineRemoval04
+    4300238: CalfRRemoval1
+    4300240: FootRemovCtr1
+    4300242: RSeqCtlr1
+    4300244: LSeqCtlr1
+    4300246: CalfLRemoval1
+    4300248: Sphere01
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: EYES
+    13700002: HD_Ironman:Object01
+    13700004: HD_Ironman:Object02
+    13700006: HD_Ironman:Object03
+    13700008: HD_Ironman:Object04
+    13700010: HD_Ironman:Object05
+    13700012: HD_Ironman:Object06
+    13700014: HD_Ironman:Object07
+    13700016: HD_Ironman:Object08
+    13700018: HD_Ironman:Object09
+    13700020: HD_Ironman:Object10
+    13700022: HD_Ironman:Object11
+    13700024: HD_Ironman:Object12
+    13700026: HD_Ironman:polySurface2610_polySurface2642
+    13700028: HD_Ironman:polySurface2610_polySurface2651
+    13700030: HD_Ironman:polySurface2610_polySurface2652
+    13700032: HD_Ironman:polySurface2610_polySurface2653
+    13700034: HD_Ironman:polySurface2610_polySurface2654
+    13700036: HD_Ironman:polySurface2610_polySurface2655
+    13700038: HD_Ironman:polySurface2610_polySurface2725
+    13700040: HD_Ironman:polySurface2610_polySurface2747
+    13700042: HD_Ironman:polySurface2610_polySurface2765
+    13700044: HD_Ironman:polySurface2610_polySurface2851
+    13700046: HD_Ironman:polySurface2610_polySurface3060
+    13700048: HD_Ironman:polySurface2610_polySurface3079
+    13700050: HD_Ironman:polySurface2610_polySurface3090
+    13700052: HD_Ironman:polySurface2610_polySurface3094
+    13700054: HD_Ironman:polySurface2610_polySurface3108
+    13700056: HD_Ironman:polySurface2610_polySurface3109
+    13700058: HD_Ironman:polySurface2610_polySurface3118
+    13700060: HD_Ironman:polySurface2610_polySurface3148
+    13700062: HD_Ironman:polySurface2610_polySurface3154
+    13700064: HD_Ironman:polySurface2610_polySurface3423
+    13700066: HD_Ironman:polySurface2610_polySurface3540
+    13700068: HD_Ironman:polySurface2610_polySurface3559
+    13700070: HD_Ironman:polySurface2610_polySurface3570
+    13700072: HD_Ironman:polySurface2610_polySurface3571
+    13700074: HD_Ironman:polySurface2610_polySurface3572
+    13700076: HD_Ironman:polySurface2610_polySurface3573
+    13700078: HD_Ironman:polySurface2610_polySurface3578
+    13700080: HD_Ironman:polySurface2610_polySurface3579
+    13700082: HD_Ironman:polySurface2610_polySurface3581
+    13700084: HD_Ironman:polySurface2610_polySurface3582
+    13700086: HD_Ironman:polySurface2610_polySurface3583
+    13700088: HD_Ironman:polySurface2610_polySurface3584
+    13700090: HD_Ironman:polySurface2610_polySurface3585
+    13700092: HD_Ironman:polySurface2610_polySurface3586
+    13700094: HD_Ironman:polySurface2610_polySurface3587
+    13700096: HD_Ironman:polySurface2610_polySurface3588
+    13700098: HD_Ironman:polySurface2631_polySurface2610
+    13700100: HD_Ironman:polySurface2631_polySurface2611
+    13700102: HD_Ironman:polySurface3666
+    13700104: HD_Ironman:polySurface3667
+    13700106: HD_Ironman:polySurface3848
+    13700108: HD_Ironman:polySurface3849
+    13700110: HD_Ironman:polySurface3850
+    13700112: HD_Ironman:polySurface3851
+    13700114: HD_Ironman:polySurface3852
+    13700116: HD_Ironman:polySurface3853
+    13700118: HD_Ironman:polySurface3854
+    13700120: HD_Ironman:polySurface3855
+    13700122: HD_Ironman:polySurface3860
+    13700124: HD_Ironman:polySurface3861
+    13700126: HD_Ironman:polySurface3862
+    13700128: HD_Ironman:polySurface3863
+    13700130: HD_Ironman:polySurface3865
+    13700132: HD_Ironman:polySurface3867
+    13700134: HD_Ironman:polySurface3868
+    13700136: HD_Ironman:polySurface3869
+    13700138: HD_Ironman:polySurface3871
+    13700140: HD_Ironman:polySurface3872
+    13700142: HD_Ironman:polySurface3873
+    13700144: HD_Ironman:polySurface3874
+    13700146: HD_Ironman:polySurface3875
+    13700148: HD_Ironman:polySurface3876
+    13700150: HD_Ironman:polySurface3877
+    13700152: HD_Ironman:polySurface3878
+    13700154: HD_Ironman:polySurface3880
+    13700156: HD_Ironman:polySurface3882
+    13700158: HD_Ironman:polySurface3883_group1
+    13700160: HD_Ironman:polySurface3884
+    13700162: HD_Ironman:polySurface3885
+    13700164: HD_Ironman:polySurface3890
+    13700166: HD_Ironman:polySurface3891
+    13700168: HD_Ironman:polySurface3892
+    13700170: HD_Ironman:polySurface3893
+    13700172: HD_Ironman:polySurface3896_polySurface3916
+    13700174: HD_Ironman:polySurface3908_polySurface3896
+    13700176: HD_Ironman:polySurface3944
+    13700178: HD_Ironman:polySurface3946
+    13700180: HD_Ironman:polySurface3948
+    13700182: HD_Ironman:polySurface3949
+    13700184: HD_Ironman:polySurface3950
+    13700186: HD_Ironman:polySurface3951
+    13700188: HD_Ironman:polySurface3952
+    13700190: HD_Ironman:polySurface3954
+    13700192: HD_Ironman:polySurface3955
+    13700194: HD_Ironman:polySurface3956
+    13700196: HD_Ironman:polySurface3957
+    13700198: HD_Ironman:polySurface3958
+    13700200: HD_Ironman:polySurface3959
+    13700202: HD_Ironman:polySurface3960
+    13700204: HD_Ironman:polySurface3961
+    13700206: HD_Ironman:polySurface3962
+    13700208: HD_Ironman:polySurface3963
+    13700210: HD_Ironman:polySurface3964
+    13700212: HD_Ironman:polySurface3965
+    13700214: HD_Ironman:polySurface3966
+    13700216: HD_Ironman:polySurface3967
+    13700218: LeftHandBEAM
+    13700220: Object01
+    13700222: Object02
+    13700224: REACTOR
+    13700226: righthandBEAM
+    13700228: Sphere01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

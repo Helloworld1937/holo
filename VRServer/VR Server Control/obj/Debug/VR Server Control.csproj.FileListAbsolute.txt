@@ -1,0 +1,22 @@
+E:\与程序有关的文档\VR\VRServer\VR Server Control\bin\Debug\VR Server Control.exe.config
+E:\与程序有关的文档\VR\VRServer\VR Server Control\bin\Debug\VR Server Control.exe
+E:\与程序有关的文档\VR\VRServer\VR Server Control\bin\Debug\VR Server Control.pdb
+E:\与程序有关的文档\VR\VRServer\VR Server Control\obj\Debug\VR Server Control.csprojResolveAssemblyReference.cache
+E:\与程序有关的文档\VR\VRServer\VR Server Control\obj\Debug\VR Server Control.exe
+E:\与程序有关的文档\VR\VRServer\VR Server Control\obj\Debug\VR Server Control.pdb
+D:\1、程序\与程序有关的文档\VR\VRServer\VR Server Control\bin\Debug\VR Server Control.exe.config
+D:\1、程序\与程序有关的文档\VR\VRServer\VR Server Control\bin\Debug\VR Server Control.exe
+D:\1、程序\与程序有关的文档\VR\VRServer\VR Server Control\bin\Debug\VR Server Control.pdb
+D:\1、程序\与程序有关的文档\VR\VRServer\VR Server Control\obj\Debug\VR Server Control.csprojResolveAssemblyReference.cache
+D:\1、程序\与程序有关的文档\VR\VRServer\VR Server Control\obj\Debug\VR Server Control.exe
+D:\1、程序\与程序有关的文档\VR\VRServer\VR Server Control\obj\Debug\VR Server Control.pdb
+D:\1、程序\与程序有关的文档\VR\VRServer\VR Server Control\bin\Debug\Microsoft.Kinect.dll
+D:\1、程序\与程序有关的文档\VR\VRServer\VR Server Control\bin\Debug\Microsoft.Kinect.xml
+D:\9、其它\桌面\虚拟人像显示程序\VRServer\VR Server Control\bin\Debug\VR Server Control.exe.config
+D:\9、其它\桌面\虚拟人像显示程序\VRServer\VR Server Control\bin\Debug\VR Server Control.exe
+D:\9、其它\桌面\虚拟人像显示程序\VRServer\VR Server Control\bin\Debug\VR Server Control.pdb
+D:\9、其它\桌面\虚拟人像显示程序\VRServer\VR Server Control\bin\Debug\Microsoft.Kinect.dll
+D:\9、其它\桌面\虚拟人像显示程序\VRServer\VR Server Control\bin\Debug\Microsoft.Kinect.xml
+D:\9、其它\桌面\虚拟人像显示程序\VRServer\VR Server Control\obj\Debug\VR Server Control.csprojResolveAssemblyReference.cache
+D:\9、其它\桌面\虚拟人像显示程序\VRServer\VR Server Control\obj\Debug\VR Server Control.exe
+D:\9、其它\桌面\虚拟人像显示程序\VRServer\VR Server Control\obj\Debug\VR Server Control.pdb
